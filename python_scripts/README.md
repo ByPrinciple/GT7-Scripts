@@ -4,7 +4,7 @@ The `race_in_circles.py` script allows you to automate racing circular tracks us
 
 ## Instructions
 
-All you need to do is open PS Remote Play and then navigate to the race start screen for the track you want to automate. This is the screen with `Start`, `Settings`, and `Exit` buttons.
+All you need to do is open PS Remote Play and then navigate to the race start screen for the track you want to automate. This is the screen with `Start`, `Settings`, and `Exit` buttons. Make sure that the remote play window is in the middle of your primary monitor because the script clicks the center of the screen to get the winow's focus.
 
 Next, open a terminal with administrator privileges (I had to use administrator privileges, but you might not have to). Navigate to the directory containing this script and run it:
 
