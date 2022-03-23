@@ -6,7 +6,7 @@ import pyautogui
 # Default parameters - these can be overridden with command
 # line arguments. See end of script for details.
 RACE_DURATION = 200
-DIRECTION = "left"
+DIRECTION = "right"
 SILENCE = False
 
 
